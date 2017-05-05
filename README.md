@@ -100,7 +100,7 @@ touch端选择图片后使用[FileReader](https://developer.mozilla.org/zh-CN/do
 - 前端工具：jQuery/SaSS/Webpack/Handlebars
 - 版本管理：Git
 
-#关于我
+# 关于我
 安静沉稳偏内向，也宅也爱玩，徒步进沙漠，骑行青海湖，珠峰大本营前做倒立。
 
 # 致谢
