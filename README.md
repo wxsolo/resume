@@ -3,9 +3,9 @@
  - 伍星/男/1990
  - 工作年限：3年
  - 期望职位：Web前端开发工程师
+ - 期望城市：北京/长沙/远程
  - 本科/中南民族大学/计算机科学与技术
  - Github: [https://github.com/wxsolo](https://github.com/wxsolo)
- - 期望城市：北京/长沙/远程
 
 ---
 
