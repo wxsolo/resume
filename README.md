@@ -3,16 +3,16 @@
  - 伍星/男/1990
  - 工作年限：3年
  - 期望职位：Web前端开发工程师
+ - 期望城市：北京/长沙/远程
  - 本科/中南民族大学/计算机科学与技术
  - Github: [https://github.com/wxsolo](https://github.com/wxsolo)
- - 期望城市：北京/长沙/远程
 
 ---
 
 # 联系方式
 
 - 手机/微信：13545085829 （武汉手机号）
-- Email：<a href="mailto:wxsolo@outlook.com">wxsolo@outlook.com</a>
+- Email：[wxsolo@outlook.com](wxsolo@outlook.com)
 
 ---
 
@@ -95,7 +95,7 @@ touch端选择图片后使用[FileReader](https://developer.mozilla.org/zh-CN/do
 - 开发言语：javascript/Node.js/HTML/CSS
 - Web框架：Express
 - 前端框架：React
-- 前端工具：jQuery/SaSS/Webpack/Handlebars
+- 前端工具：jQuery/Npm/SaSS/Webpack/Handlebars
 - 版本管理：Git
 
 # 关于我
