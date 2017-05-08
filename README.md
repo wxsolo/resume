@@ -33,7 +33,7 @@
 
 touch端选择图片后使用[FileReader](https://developer.mozilla.org/zh-CN/docs/Web/API/FileReader)读取实现本地预览。截取使用canvas绘制截取区域然后[toDataURL](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/toDataURL)，进一步通过[window.atob](https://developer.mozilla.org/zh-CN/docs/Web/API/WindowBase64/atob)+[Uint8Array](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array)+[Blob](https://developer.mozilla.org/zh-CN/docs/Web/API/Blob) 转换回文件流供提交后端。
 
-## 北京奈斯特尔信息技术有限公司（Nestia.com）（2016年8月~2016年12月）
+## Nestia（Nestia.com）（2016年8月~2016年12月）
 
 ### *新闻(News)栏目*
 
