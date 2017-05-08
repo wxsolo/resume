@@ -95,7 +95,7 @@ touch端选择图片后使用[FileReader](https://developer.mozilla.org/zh-CN/do
 - 开发言语：javascript/Node.js/HTML/CSS
 - Web框架：Express
 - 前端框架：React
-- 前端工具：jQuery/Npm/SaSS/Webpack/Handlebars
+- 前端工具：jQuery/Zepto/Npm/SaSS/Webpack/Handlebars
 - 版本管理：Git
 
 # 关于我
